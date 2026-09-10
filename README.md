@@ -35,16 +35,6 @@ Currently, I'm working on projects that combine software development with real-w
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=eson-gcia&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eson-gcia&layout=compact&hide_border=true" height="170"/>
-
-</div>
-
 ---
 
 ## Contribution Activity
