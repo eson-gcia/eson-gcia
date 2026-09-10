@@ -1,4 +1,4 @@
-## Hi there 👋
+## For Funzzies only 👋
 
 <!--
 **eson-gcia/eson-gcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
