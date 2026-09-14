@@ -1,36 +1,91 @@
-### 🛠️ Tech Stack
-<div align="center">
+## 💙 `~/special/for-my-one-and-only-baby`
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<details>
+<summary><b>💌 Papindot po ito Baby</b></summary>
 
-</div>
+<br>
 
-### 📊 GitHub Stats
+# **Thank You, My Baby**
 
-<div align="center">
+**Baby,**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eson-gcia&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+Four months 
+And every single day that passed,
+I find myself grateful
+That you chose me too.
+Thank you for every smile you gave me
+Even on the days you didn't feel like smiling.
+Thank you for every good morning
+That started my day right
+Just because it came from you.
+Thank you for every "okay na"
+Even when it wasn't fully okay yet.
+Thank you for every time you came back
+After every storm between us
+Because you always did.
+You always do.
+Thank you for every tampo
+Because it only means
+That what we have matters enough
+To hurt you when something goes wrong.
+Thank you for every game night
+Even when I got too aggressive
+Even when the game was frustrating
+You were still there beside me
+And that made everything better.
+Thank you for every repost
+That said everything
+You couldn't quite say out loud 
+We both know who those were for. 
+Thank you for every "iloveyou"
+You gave even when you were tired.
+Thank you for every heart react
+On the nights words weren't enough.
+Those small things —
+I notice all of them.
+Every single one.
+Thank you for being patient with me
+While I learn how to love you better.
+Thank you for letting me in
+Even when opening up is hard for you.
+Thank you for staying
+Even when staying wasn't easy.
+Four months of loving you
+Not always perfect,
+Not always easy,
+But always, always real.
+And that is more than enough for me.
+I love you, my beautiful sweet baby.
+*Today, tomorrow, and every month that comes after this.
+<br>
 
-</div>
+### `git commit -m "four months, still loving the same you"
+
+```text
+Relationship Status:  Official
+Distance:             Long
+Love:                 Constant
+Favorite Person:      You
+Days Together:        4 months
+Next milestone:       Forever
+```
+
+**— Your Baby, Edison 🤍**
+
+</details>
 
 ---
 
-### 📫 PaConnect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-
-</div>
-
-<div align="center">
-
-*"Shine Bright like a Diamond"*
-</div>
+<!--
+  PRIVATE COMMIT
+  
+  If you ever inspect the source of this README:
+  
+  Yes, baby.
+  This whole section was made for you.
+  
+  Four months down.
+  A lifetime to go.
+  
+  I love you.
+-->
