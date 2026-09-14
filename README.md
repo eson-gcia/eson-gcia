@@ -17,13 +17,15 @@ Thank you for every smile you gave me
 Even on the days you didn't feel like smiling.
 Thank you for every good morning
 That started my day right
-Just because it came from you.
+Just because it came from you. <br>
+
 Thank you for every "okay na"
 Even when it wasn't fully okay yet.
 Thank you for every time you came back
 After every storm between us
 Because you always did.
-You always do.
+You always do. <br>
+
 Thank you for every tampo
 Because it only means
 That what we have matters enough
@@ -32,7 +34,8 @@ Thank you for every game night
 Even when I got too aggressive
 Even when the game was frustrating
 You were still there beside me
-And that made everything better.
+And that made everything better. <br>
+
 Thank you for every repost
 That said everything
 You couldn't quite say out loud 
@@ -40,14 +43,16 @@ We both know who those were for.
 Thank you for every "iloveyou"
 You gave even when you were tired.
 Thank you for every heart react
-On the nights words weren't enough.
+On the nights words weren't enough. <br>
+
 Those small things —
 I notice all of them.
 Every single one.
 Thank you for being patient with me
 While I learn how to love you better.
 Thank you for letting me in
-Even when opening up is hard for you.
+Even when opening up is hard for you. <br>
+
 Thank you for staying
 Even when staying wasn't easy.
 Four months of loving you
