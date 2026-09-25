@@ -14,10 +14,4 @@ So, officially and permanently documented in Git:
 
 ```text
 I LOVE PROF. MANSUETO ❤️
-```
 
-No `git reset` can undo this.
-
-No `git revert` can change it.
-
-And definitely no merge conflict can stop it.
